@@ -7,10 +7,6 @@ This Power BI dashboard analyzes Instagram post engagement by visualizing key me
 
 ## 📊 Dashboard Overview
 
-![Instagram Dashboard](images/dashboard-overview.png)
-
----
-
 ## 📁 Dataset Summary
 
 - **Source:** Instagram Insights (or sample engagement dataset)
@@ -50,14 +46,7 @@ This Power BI dashboard analyzes Instagram post engagement by visualizing key me
 - Excel (for cleaning/transforming data)
 - DAX for calculated fields
 
----
 
-## 📂 PBIX File
-
-You can download the Power BI `.pbix` file [here](https://drive.google.com/your_shared_link)  
-> *(Replace the link above with your own Google Drive link if needed)*
-
----
 
 ## 🧾 License
 
